@@ -30,8 +30,8 @@ admin-shop/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/admin-shop.git
-cd admin-shop
+git clone https://github.com/Carlos-MKR/vue-nest-admin-shop
+cd vue-nest-admin-shop
 
 Ir a la carpeta del frontend:
 cd frontend
