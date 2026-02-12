@@ -14,7 +14,7 @@ El proyecto está dividido en dos aplicaciones independientes:
 ---
 
 # 📂 Estructura del Proyecto
-
+```bash
 admin-shop/
 │
 ├── frontend/ # Aplicación Vue 3
@@ -22,7 +22,7 @@ admin-shop/
 ├── backend/ # API REST con NestJS
 │
 └── README.md
-
+```
 ---
 
 # ⚙️ Instalación General
